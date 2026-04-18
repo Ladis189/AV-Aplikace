@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/ladis/Documents/GitHub/AV-Aplikace/AV/AV/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/ladis/Documents/GitHub/AV-Aplikace/AV/AV/bin/Debug/net9.0-maccatalyst/maccatalyst-arm64/AV.app
