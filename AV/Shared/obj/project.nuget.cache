@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qSDXEC818Qk=",
+  "dgSpecHash": "QiVZeO1RQ0I=",
   "success": true,
-  "projectFilePath": "/Users/ladis/Documents/GitHub/AV-Aplikace/AV/Shared/Shared.csproj",
-  "expectedPackageFiles": [
-    "/Users/ladis/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
-    "/Users/ladis/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\AV-Aplikace\\AV\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
