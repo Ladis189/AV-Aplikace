@@ -10,15 +10,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AV")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a6ebe7041b3d489534d1a3bfd7411527432cbcfb")]
-[assembly: System.Reflection.AssemblyProductAttribute("AV")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AV")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6ebe7041b3d489534d1a3bfd7411527432cbcfb")]
+[assembly: System.Reflection.AssemblyProductAttribute("Backend")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("MacCatalyst26.2")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("MacCatalyst15.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
 
